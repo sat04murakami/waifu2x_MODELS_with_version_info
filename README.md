@@ -1,0 +1,2 @@
+# waifu2x_MODELS_versioned
+バージョン情報が付加された、waifu2x-caffe用の各Modelデータのアーカイブ
